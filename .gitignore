@@ -1,7 +1,8 @@
 # Deployment directories
 node_modules
 public/*
-!/public/index.html
+!/public/*.html
+!/public/images
 # Optional npm cache directory
 .npm
 # Mac

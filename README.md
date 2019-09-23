@@ -2,7 +2,6 @@
 
 This is a sample web app for employees reviews
 
-
 ## App Structure
 ```mermaid
 graph LR
